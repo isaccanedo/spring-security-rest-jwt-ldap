@@ -9,7 +9,7 @@ Em vez de verificar a autenticação do usuário usando o banco de dados MongoDB
 
 #### Configurações de LDAP
 
- * Mude suas configurações dentro de `src / main / resources / application.properties`
+ * Mude suas configurações dentro de `src/main/resources/application.properties`
  * Altere a função permitida dentro de `ProtectedController`
 
 A configuração LDAP não é fornecida aqui (dependendo do seu serviço de TI).
