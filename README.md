@@ -16,7 +16,7 @@ A configuração LDAP não é fornecida aqui (dependendo do seu serviço de TI).
 
 #### Construindo e instalando o aplicativo
 
- * Execute `mvn clean install`.
+ * Execute `mvn clean install`;
  * implantar o WAR integrado em seu contêiner de servlet favorito (JBoss, Tomcat, ...)
 
  
